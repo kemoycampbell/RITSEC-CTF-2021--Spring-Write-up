@@ -1,6 +1,6 @@
 # Sessions
 # Points: 100
-#Description
+# Description
 Find the flag.
 
 http://34.69.61.54:4777
@@ -33,7 +33,7 @@ cipher identifier
 
 After decoding the cookie we got the flag!
 
-#Flag
+# Flag
 
 ```yml
 RS{0nly_One_s3ssion_tok3n}

@@ -1,14 +1,14 @@
 # Robots
 # Points: 100
 
-#Description
+# Description
 Robots are taking over. Find out more.
 
 34.69.61.54:5247
 
 Author: f1rehaz4rd
 
-#Solution
+# Solution
 Open 34.69.61.54:5247 in the browser then read the page for any clues.
 As a rule of thumbs, I like to start simple first so I decided to view the page
 source code. There was a flag.txt and I decided to append that to the url
@@ -24,7 +24,7 @@ one particular line that stood out
 My teammate was able to figure out that this is a base64 so decrypted that we get
 the true flag
 
-#Flag
+# Flag
 ```yaml
     RS{R0bots_ar3_b4d}
 ```
