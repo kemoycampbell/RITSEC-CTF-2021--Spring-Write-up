@@ -17,11 +17,11 @@ just like the movie inception!
 First I unzip the inception file with 7zip and was presented with other 7z file called Reality.
 After unzip that file, there was a subconscious.txt file which contain the flag backward as {dnalmaerD}CESTIR
 
-### Flag #1
+### Flag 1
 ```RITSEC{Dreamland}``` this is the reverse of the file that we found in subconcious.txt
 We will use this flaz to open VanChase.7z without RITSEC{ }
 
-### Flag #2
+### Flag 2
 Once unlocked the vanchase we see couple more files, a powershell file, kidnap.txt and TheHotel.7z
 When we open kidnap.txt we see a hex and by throwing it into a hex decoder we get this flag
 RITSEC{WaterUnderTheBridge}
@@ -73,7 +73,7 @@ We throw the ciphertext in a base64 decoder then we got a hex as follow
 We then decoded that in an hex decoder and was presented with the flag
 ```RITSEC{F@!!ingElev@tor}```
 
-### flag 4
+### Flag 4
 Using the flag we obtained above, we then move to unlock the SnowFortress.7z file
 and we are then of course presented with another 7z file! We got  Limbo.7z and PasswordPath.exe
 
