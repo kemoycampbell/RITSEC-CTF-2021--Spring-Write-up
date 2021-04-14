@@ -129,7 +129,9 @@ I decided that the interesting section was
         ''));</script>
 ```
 I thought well probably I could just take out that section and save it as html after all it is javascript and I got this result
-![alt js snippet](../images/js.png). I was feeling proud of myself... until I hit the "Implant Inception Here button"
+![alt js snippet](../images/js.png). 
+
+I was feeling proud of myself... until I hit the "Implant Inception Here button"
 and was hit with an error
 ![alt active x error](../images/activex.png)
 
