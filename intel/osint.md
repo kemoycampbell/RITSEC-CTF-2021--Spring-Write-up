@@ -1,6 +1,6 @@
 # #OSINT Challenge
 
-#Point: 250
+# Points: 250
 
 # Description
 Please DO NOT attempt to reset the password for any accounts or social engineer the characters. We have taken action to prevent this in the future and your activity will likely be flagged as malicious by the account providers.
@@ -14,5 +14,5 @@ Author: FrozenTundras
 
 # Solution
 
-#Flag
+# Flag
 ```RS{Durand_Eastman_Park}```
